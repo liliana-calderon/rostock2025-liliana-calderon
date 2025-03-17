@@ -1,0 +1,13 @@
+project: 
+  type: website
+  output-dir: docs
+  
+website: 
+  title: "Liliana's Advanced Github notes"
+  navbar: 
+   background: primary
+   search: true
+  
+format: 
+  html:
+    theme: slate
